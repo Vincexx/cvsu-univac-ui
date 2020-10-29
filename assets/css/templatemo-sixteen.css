@@ -327,6 +327,7 @@ header .navbar {
 .banner-item-01 .overlay{
 	background: rgb(0, 0, 0, .6);
 	height: 80vh;
+
 }
 
 .banner .banner-item {
@@ -821,36 +822,36 @@ footer .inner-content p a {
 	color: #fff;
 }
 
-.accordion {
+.others {
 	margin-left: 30px;
 }
 
-.accordion a {
-	cursor: pointer;
+.others a {
+	/* cursor: pointer; */
 	font-size: 17px;
 	color: #1a6692!important;
 	margin-bottom: 20px;
 	transition: all .3s;
 }
 
-.accordion a:hover {
+.others a:hover {
 	color: #34ee3d!important;
 }
 
-.accordion a.active {
+.others a.active {
   color: #34ee3d!important;
 }
 
-.accordion li .content {
+.others li .content {
   display: none;
   margin-top: 10px;
 }
 
-.accordion li:first-child {
+.others li:first-child {
 	border-top: 1px solid #eee;
 }
 
-.accordion li {
+.others li {
 	border-bottom: 1px solid #eee;
 	padding: 15px 0px;
 }
