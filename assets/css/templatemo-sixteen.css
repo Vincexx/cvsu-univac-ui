@@ -875,13 +875,18 @@ footer .inner-content p a {
 	.banner-item-03 {
 		padding: 180px 0px;
 	}
+
+
+
 	.page-heading .text-content h4 {
 		font-size: 22px;
 	}
 
 	.page-heading .text-content h2 {
 		font-size: 36px;
+		font-weight: bold;
 		letter-spacing: 0.5px;
+	
 	}
 	.latest-products .section-heading a {
 		float: none;
